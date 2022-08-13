@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaWeek1", "PatikaWeek1\PatikaWeek1.csproj", "{7F57BCA5-167D-4565-A561-146A0D170C04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F57BCA5-167D-4565-A561-146A0D170C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F57BCA5-167D-4565-A561-146A0D170C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F57BCA5-167D-4565-A561-146A0D170C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F57BCA5-167D-4565-A561-146A0D170C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106D6AFD-144C-4B86-BAE1-9DACEFA2C0E3}
+	EndGlobalSection
+EndGlobal
